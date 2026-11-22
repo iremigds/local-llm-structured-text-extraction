@@ -1,0 +1,591 @@
+raw,first_try_ok,cleaned_ok,struct_ok,value_ok,parsed,error,latency,idx,true,pred
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.95, 'entities': []}",,1.7352421283721924,0,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,2.2489798069000244,1,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.95, 'entities': []}",,1.8357272148132324,2,positive,positive
+"{""category"": ""romance"", ""sentiment"": ""positive"", ""sentiment_score"": 0.93, ""entities"": []}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.2061080932617188,3,positive,positive
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": [""Elijah Wood"", ""Joseph Mazzello"", ""Lorraine Bracco"", ""Bobby""]
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': ['Elijah Wood', 'Joseph Mazzello', 'Lorraine Bracco', 'Bobby']}",,2.5450851917266846,4,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": [""S Eptath"", ""Mos Def"", ""Rosie Perez"", ""Jr"", ""Nanny""]
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': ['S Eptath', 'Mos Def', 'Rosie Perez', 'Jr', 'Nanny']}",,2.722701072692871,5,positive,positive
+"{
+  ""category"": ""other"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'other', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.371896743774414,6,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': []}",,1.5809319019317627,7,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.4399211406707764,8,positive,positive
+"{
+  ""category"": ""action"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'action', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.3816120624542236,9,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.475492238998413,10,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,2.155953884124756,11,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.4321181774139404,12,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,2.0471088886260986,13,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.4879271984100342,14,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": [""Franta"", ""Carel""]
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': ['Franta', 'Carel']}",,2.2703232765197754,15,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': []}",,1.7898848056793213,16,positive,positive
+"{
+  ""category"": ""action"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'action', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.651973009109497,17,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,2.1692070960998535,18,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.4364738464355469,19,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': []}",,1.5443191528320312,20,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': []}",,1.4668710231781006,21,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.4211359024047852,22,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,2.1419901847839355,23,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.83,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.83, 'entities': []}",,2.3102588653564453,24,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,2.092343807220459,25,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.526745080947876,26,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.6581151485443115,27,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.5652599334716797,28,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': []}",,1.7754096984863281,29,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.95, 'entities': []}",,1.5532500743865967,30,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.95, 'entities': []}",,1.705029010772705,31,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,2.2551050186157227,32,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": [""Salman Khan"", ""Aamir Khan""]
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': ['Salman Khan', 'Aamir Khan']}",,2.0573689937591553,33,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.972579002380371,34,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.3904261589050293,35,positive,negative
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.4101338386535645,36,positive,positive
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.433135747909546,37,positive,positive
+"{
+  ""category"": ""action"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": [""DeNiro"", ""Michael Madsen"", ""Justin Pagel""]
+}",True,False,True,True,"{'category': 'action', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': ['DeNiro', 'Michael Madsen', 'Justin Pagel']}",,1.9243810176849365,38,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": [""David Beazely"", ""Mark Hildreth"", ""Paul Anthony"", ""Alan Cumming""]
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': ['David Beazely', 'Mark Hildreth', 'Paul Anthony', 'Alan Cumming']}",,2.7184958457946777,39,positive,positive
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": [""George Hearn"", ""Angela Lansbury"", ""Brynn Terfel"", ""Tobias""]
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': ['George Hearn', 'Angela Lansbury', 'Brynn Terfel', 'Tobias']}",,2.38126802444458,40,positive,positive
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.5976848602294922,41,positive,positive
+"{""category"": ""comedy"", ""sentiment"": ""positive"", ""sentiment_score"": 0.843, ""entities"": []}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.843, 'entities': []}",,1.243783950805664,42,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.9,
+  ""entities"": [""Susan Nauss"", ""Ken Takakura Oda"", ""Tom Selleck"", ""Jack F Kennedy"", ""President Kennedy"", ""President George W Bush""]
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.9, 'entities': ['Susan Nauss', 'Ken Takakura Oda', 'Tom Selleck', 'Jack F Kennedy', 'President Kennedy', 'President George W Bush']}",,2.74564790725708,43,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.93,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.93, 'entities': []}",,1.4411251544952393,44,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.843,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.843, 'entities': []}",,1.4938721656799316,45,positive,positive
+"{
+  ""category"": ""romance"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'romance', 'sentiment': 'positive', 'sentiment_score': 0.95, 'entities': []}",,1.4290990829467773,46,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.6144628524780273,47,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.6005911827087402,48,positive,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.55,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.55, 'entities': []}",,2.0778727531433105,49,positive,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.85, 'entities': []}",,1.8055670261383057,50,negative,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.65913987159729,51,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.4803030490875244,52,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": [""Gregory Dark"", ""Glen Jacobs"", ""Jacob Goodknight"", ""Samantha Noble""]
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': ['Gregory Dark', 'Glen Jacobs', 'Jacob Goodknight', 'Samantha Noble']}",,2.121000289916992,53,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.3847160339355469,54,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.453199863433838,55,negative,positive
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.4,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.4, 'entities': []}",,1.5334980487823486,56,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,2.278718948364258,57,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,2.6513640880584717,58,negative,positive
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.35,
+  ""entities"": [""Paxton""]
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'negative', 'sentiment_score': 0.35, 'entities': ['Paxton']}",,2.2212419509887695,59,negative,negative
+"{
+  ""category"": ""other"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'other', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.4786579608917236,60,negative,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.4809319972991943,61,negative,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.7756140232086182,62,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.4343280792236328,63,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,1.398266077041626,64,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.9834129810333252,65,negative,positive
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.4,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'negative', 'sentiment_score': 0.4, 'entities': []}",,1.660041093826294,66,negative,negative
+"{
+  ""category"": ""sci-fi"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'sci-fi', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,2.072173833847046,67,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,1.3118770122528076,68,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,1.4649951457977295,69,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,2.065201997756958,70,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.6369659900665283,71,negative,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.5398080348968506,72,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.8156938552856445,73,negative,positive
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.527972936630249,74,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.2,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.2, 'entities': []}",,1.9901728630065918,75,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.7812421321868896,76,negative,negative
+"{
+  ""category"": ""action"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.35,
+  ""entities"": [""Keenen Ivory Wayans"", ""Steven Seagal"", ""Nikki Cox"", ""Brian Cox"", ""Bob Gunton""]
+}",True,False,True,True,"{'category': 'action', 'sentiment': 'negative', 'sentiment_score': 0.35, 'entities': ['Keenen Ivory Wayans', 'Steven Seagal', 'Nikki Cox', 'Brian Cox', 'Bob Gunton']}",,2.6993789672851562,77,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.7965519428253174,78,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.885382890701294,79,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": -0.999,
+  ""entities"": []
+}",True,False,True,False,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': -0.999, 'entities': []}",,1.5772998332977295,80,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.3219671249389648,81,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.525014877319336,82,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.35,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.35, 'entities': []}",,1.6557776927947998,83,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.4668033123016357,84,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,1.4599411487579346,85,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.357814073562622,86,negative,negative
+"{
+  ""category"": ""drama"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'drama', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.5172779560089111,87,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.515537977218628,88,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.3676879405975342,89,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.55,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.55, 'entities': []}",,1.5015807151794434,90,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,1.5452818870544434,91,negative,negative
+"{
+  ""category"": ""horror"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.9999999999999999,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'horror', 'sentiment': 'negative', 'sentiment_score': 0.9999999999999999, 'entities': []}",,2.697706937789917,92,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.8, 'entities': []}",,1.4699242115020752,93,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': []}",,1.404937982559204,94,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,2.123975992202759,95,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.95,
+  ""entities"": [""Tim Roth"", ""John Malkovich""]
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.95, 'entities': ['Tim Roth', 'John Malkovich']}",,1.7096397876739502,96,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""positive"",
+  ""sentiment_score"": 0.8,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'positive', 'sentiment_score': 0.8, 'entities': []}",,1.390901803970337,97,negative,positive
+"{
+  ""category"": ""other"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.85,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'other', 'sentiment': 'negative', 'sentiment_score': 0.85, 'entities': []}",,1.4638090133666992,98,negative,negative
+"{
+  ""category"": ""comedy"",
+  ""sentiment"": ""negative"",
+  ""sentiment_score"": 0.843,
+  ""entities"": []
+}",True,False,True,True,"{'category': 'comedy', 'sentiment': 'negative', 'sentiment_score': 0.843, 'entities': []}",,1.585461139678955,99,negative,negative

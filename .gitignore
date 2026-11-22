@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.DS_Store
+old_runs/
+old_test/
+hatali_yorumlar.txt
+results_*_jsonmode_*.csv
+model.py
+check.py
+compare.py
+read_errors.py
+inspect_fail.py
+schema_test.py
+make_annotation_file.py
+

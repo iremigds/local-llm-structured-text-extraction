@@ -1,0 +1,5 @@
+setting,temp,raw_parse_%,after_clean_%,struct_valid_%,value_valid_%,accuracy_%,latency_s
+prompt_only,0.0,100.0,100.0,100.0,98.0,89.0,1.69
+prompt_only,1.0,100.0,100.0,100.0,97.0,91.0,1.38
+schema,0.0,100.0,100.0,100.0,99.0,89.0,1.75
+schema,1.0,100.0,100.0,100.0,100.0,91.0,1.56
