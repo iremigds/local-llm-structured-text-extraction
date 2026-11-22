@@ -36,6 +36,7 @@ Ollama 0.40.2, Python `ollama` package 0.6.3 (see `env_info.txt`). Generation pa
 | `range_probe.py` | Probe: does the schema enforce the score range? |
 | `check_mixed.py` | Shows the cases where the schema forced `mixed` to `negative` |
 | `live_demo.py` | Live test: dataset samples in both settings and two temperatures, plus new samples |
+| `report.pdf` | Technical report |
 | `results_*.csv` | Raw model outputs and per-review checks for each setting and temperature |
 | `env_info.txt` | Ollama and model details (version, quantization) |
 
