@@ -21,6 +21,8 @@ Ollama 0.40.2, Python `ollama` package 0.6.3 (see `env_info.txt`). Generation pa
 | Sentiment and validity analysis | `python analyze_v2.py` | console |
 | Entity F1 against gold labels | `python entity_f1.py` | console |
 | Cleaning function test (synthetic broken outputs) | `python test_clean.py` | console |
+| Live demo (same samples in both settings, new samples) | `python live_demo.py` | console |
+
 
 ## Files
 
@@ -33,6 +35,7 @@ Ollama 0.40.2, Python `ollama` package 0.6.3 (see `env_info.txt`). Generation pa
 | `test_clean.py` | Tests `clean_output` on synthetic broken model outputs |
 | `range_probe.py` | Probe: does the schema enforce the score range? |
 | `check_mixed.py` | Shows the cases where the schema forced `mixed` to `negative` |
+| `live_demo.py` | Live test: dataset samples in both settings and two temperatures, plus new samples |
 | `results_*.csv` | Raw model outputs and per-review checks for each setting and temperature |
 | `env_info.txt` | Ollama and model details (version, quantization) |
 
